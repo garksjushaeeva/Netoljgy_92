@@ -44,4 +44,5 @@
   <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ПоступлениеТовара</documents>
   <documents>Document.Продажа</documents>
+  <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
 </mdclass:Configuration>
